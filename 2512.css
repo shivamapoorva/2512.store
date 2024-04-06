@@ -555,6 +555,8 @@ color: #7f8c8d;
 html {
   font-family: 'Lato', sans-serif;
   scroll-behavior: smooth;
+  background-image: url(https://images.unsplash.com/photo-1663699501426-b82ea1fa2450?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size:fill;
 }
 
 body {
